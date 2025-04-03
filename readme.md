@@ -1,8 +1,8 @@
 # 📌 Sintaxis y Semántica de los Lenguajes
 
-Repositorio Personal para Trabajos Individuales.
+Repositorio personal para trabajos individuales.
 
-## 📚 Información del Estudiante
+## 📚 Información del estudiante
 
 * **Curso:** K2002
 * **Año de cursada:** 2025
