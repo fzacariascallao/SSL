@@ -15,7 +15,7 @@ Trabajo resuelto de manera individual por Facundo Zacarías Callao.
 
 - **Compilador seleccionado**: gcc 
 - **Versión del compilador**: gcc (GCC) 14.2.1 20250207
-- **Versión de C soportada**: C2x
+- **Versión de C soportada**: C23
 
 Para verificar la versión del compilador se usó el siguiente comando:
 
@@ -23,14 +23,14 @@ Para verificar la versión del compilador se usó el siguiente comando:
 gcc --version
 ```
 
-Luego para verificar que el complidarod soporta C23 se probó con el siguiente comando:
+Luego para verificar que el complidarod soporta C23 se probó con los siguientes comandos:
 
 ```bash
 gcc -std=c23 hello.c
 ./a.out
 ```
 
-Al compilar y ejecutarse correctamente se corroboró que el la versión del compilador instalada soporta C23.
+Al compilar y ejecutarse correctamente se corroboró que la versión del compilador instalada soporta C23.
 
 ## Resultados
 
