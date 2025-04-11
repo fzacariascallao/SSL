@@ -23,7 +23,7 @@ Para verificar la versión del compilador se usó el siguiente comando:
 gcc --version
 ```
 
-Luego para verificar que el complidarod soporta C23 se probó con los siguientes comandos:
+Luego para verificar que el compilador soporta C23 se probó con los siguientes comandos:
 
 ```bash
 gcc -std=c23 hello.c
@@ -36,6 +36,6 @@ Al compilar y ejecutarse correctamente se corroboró que la versión del compila
 
 El programa funcionó correctamente y se pudo ver la salida del programa tanto en la terminal como en el archivo output.txt (el cual es la salida redireccionada del programa).
 
-Por otra parte, también se logró crear un buen flujo de trabajo usando las herramienas git y GitHub teniendo un seguimiento de las versiones del T.P.
+Por otra parte, también se logró crear un buen flujo de trabajo usando las herramientas git y GitHub teniendo un seguimiento de las versiones del T.P.
 
 En conclusión, se lograron los objetivos del trabajo y se pudo establecer un buen entorno de desarrollo propio para futuros trabajos.
